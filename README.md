@@ -3,7 +3,8 @@ Example of requesting runtime permissions on Android 23 Marshmallow
 
 <b>INSTALL ??</b>:
 
-1. Copy following file into your project : RuntimePermissionsUtils.java
+1. Copy following file into your project : </br>
+<code>RuntimePermissionsUtils.java</code>
 
 <b>USAGE</b>: 
 
